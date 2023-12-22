@@ -1,0 +1,49 @@
+nav {
+    background-color: transparent;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1000;
+}
+
+.navLinks {
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2em;
+}
+
+.rodebrujasLogo {
+    padding-top: 6px;
+    justify-content: left;
+    align-items: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: bold;
+}
+
+nav img {
+    height: 50px;
+}
+
+
+
+/* nav a:hover {
+    text-decoration: underline;
+} */
+
+.home-link {
+    color: white;
+}
+
+.other-link {
+    color: black;
+}

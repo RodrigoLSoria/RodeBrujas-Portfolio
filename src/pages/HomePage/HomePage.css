@@ -1,0 +1,12 @@
+.homepage-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.painting img {
+    width: 100%;
+    height: auto;
+    display: block;
+}

@@ -1,0 +1,6 @@
+# start of file
+
+User-agent: *
+Allow: /
+
+Sitemap: https://rodrigodebrujas.netlify.app/sitemap.xml
