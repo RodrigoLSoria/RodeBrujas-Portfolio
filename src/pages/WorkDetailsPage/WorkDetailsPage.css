@@ -1,0 +1,15 @@
+.work-details-page {
+    padding-top: 20px;
+
+}
+
+.work-info {
+    padding-left: 5%;
+}
+
+.work-details-page img {
+    padding: 5%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}

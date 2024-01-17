@@ -1,10 +1,12 @@
 import "./ContactPage.css"
 import { Col, Row } from 'react-bootstrap'
-import { useForm, ValidationError } from '@formspree/react';
-import { useState } from 'react';
+import { useForm, ValidationError } from '@formspree/react'
+import { useState } from 'react'
+import emailjs from 'emailjs-com'
+
 
 const ContactPage = () => {
-    const [state, handleSubmit] = useForm("mvojenkr");
+    const [state, handleSubmit] = useForm("xpzvwbly")
     const [hasContacted, setHasContacted] = useState(undefined)
     if (!hasContacted && state.succeeded) {
         setHasContacted(
