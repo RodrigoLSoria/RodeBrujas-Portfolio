@@ -16,7 +16,6 @@
     "react": "^18.2.0",
     "react-bootstrap": "^2.9.1",
     "react-dom": "^18.2.0",
-    "react-image-magnifiers": "^1.4.0",
     "react-router-dom": "^6.21.1"
   },
   "devDependencies": {
